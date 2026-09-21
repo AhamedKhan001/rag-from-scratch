@@ -5,7 +5,6 @@ first principles — implementing chunking, vector search, and an ANN index
 myself before reaching for production libraries, and backing it with a
 real evaluation harness rather than eyeballing example outputs.
 
-**[Live demo / project showcase →](https://claude.ai/artifact/BEWk18yQ9fEVXGqnubmyYU)**
 
 ## Why this project
 
