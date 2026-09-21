@@ -1,0 +1,6 @@
+sentence-transformers>=2.7.0
+numpy>=1.26.0
+rank-bm25>=0.2.2
+faiss-cpu>=1.8.0
+tiktoken>=0.7.0
+nltk>=3.8.1

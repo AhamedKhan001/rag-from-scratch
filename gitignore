@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
+
+# Model caches (downloaded automatically, no need to commit)
+.cache/
+*.safetensors
+*.bin
+
+# OS/editor
+.DS_Store
+.vscode/settings.json
+
+# Data (keep the folder, ignore large/generated contents if any get added later)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
